@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-onnxruntime
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
 pillow
 numpy
-torchvision   # transforms ke liye
